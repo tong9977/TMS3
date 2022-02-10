@@ -18,7 +18,7 @@
     "chartist": "0.11.0",
     "collect.js": "^4.12.2",
     "feathers-vuex": "^1.7.0",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "socket.io-client": "^2.2.0",
     "vee-validate": "2.0.0",
